@@ -32,24 +32,24 @@
 
 <h3 align="left">Tools:</h3>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/heroku-original.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/jest-plain.svg" alt="jest" width="40" height="40"/> </a> 
 
 
 <h3>Backend Frameworks:</h3>
 <p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nestjs-plain.svg" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/express-original.svg" alt="express" width="40" height="40"/> </a> 
 </p>
 
 <h3>DBs & ORDBs:</h3>
 <p>
 <image src="https://github.com/Alexsandr3/readme/blob/main/iconc/mongodb-original.svg" width="50" />
 <image src="https://github.com/Alexsandr3/readme/blob/main/iconc/postgresql-original.svg" width="50" />
+<image src="https://github.com/Alexsandr3/readme/blob/main/iconc/typeOrm.svg" width="50" />
 <image src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" width="50" />
-<image src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="50" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandr3&show_icons=true&locale=en" alt="Alexsandr3" /></p>
