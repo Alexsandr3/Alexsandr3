@@ -22,15 +22,19 @@
 <a href="https://www.linkedin.com/in/alexsandr-fedarovich-5a6077250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakhongir-ismoilov-9039a5203/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages/Runtimes:</h3>
+<p>
+  <image src="https://github.com/Alexsandr3/readme/blob/main/iconc/javascript-original.svg" width="50" />
+  <image src="https://github.com/Alexsandr3/readme/blob/main/iconc/typescript-original.svg" width="50" />
+</p>
+
+
+
+<h3 align="left">Tools:</h3>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 
 <h3>Backend Frameworks:</h3>
@@ -50,9 +54,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandr3&show_icons=true&locale=en" alt="Alexsandr3" /></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Alexsandr3&theme=radical&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandr3&theme=radical&layout=compact&&hide=html,css,scss,makefile,jupyter%20notebook)
 
 
 
