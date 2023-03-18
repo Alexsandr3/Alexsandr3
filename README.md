@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I can type 120 words per minute 😄 - sure it's a joke**
 - 📫 **How to reach me:**
 
-<div align="center">
+<div align="left">
   <a href="https://t.me/+451655588" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
   </a>
@@ -30,33 +30,33 @@
 <h3>Languages/Runtimes & Tools:</h3>
 <p>
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/figma-original.svg" alt="figma" width="30" height="30"/> </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/heroku-original.svg" alt="heroku" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/heroku-original.svg" alt="heroku" width="30" height="30"/> </a> 
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/jest-plain.svg" alt="jest" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/jest-plain.svg" alt="jest" width="30" height="30"/> </a> 
     <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/npm-original-wordmark.svg" alt="npm" width="30" height="30"/> </a> 
     <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/yarn-original.svg" alt="yarn" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/yarn-original.svg" alt="yarn" width="30" height="30"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nodejs-original.svg" alt="nodejs" width="30" height="30"/> </a> 
     <a href="https://nestjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/nestjs-plain.svg" alt="nestjs" width="30" height="30"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/express-original.svg" alt="express" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/express-original.svg" alt="express" width="30" height="30"/> </a> 
     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/mongodb-original.svg" alt="mongodb" width="30" height="30"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/postgresql-original.svg" alt="postgresql" width="30" height="30"/> </a> 
     <a href="https://typeorm.io" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/typeOrm.svg" alt="typeorm" width="40" height="40"/> </a> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/typeOrm.svg" alt="typeorm" width="30" height="30"/> </a> 
     <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> 
-<img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="40" height="40"/> </a>
+<img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="30" height="30"/> </a>
 </p>
 </div>
 
