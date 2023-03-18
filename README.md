@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning **JavaScript Advanced topics, Data structures and Algorithms**
 - 💬 Ask me about **JavaScript, Node.js**
 - ⚡ Fun fact **I can type 120 words per minute 😄 - sure it's a joke**
-**- 📫 How to reach me:**
+- 📫 **How to reach me:**
+
 <div align="center">
   <a href="https://t.me/+451655588" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
@@ -25,7 +26,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
 <h3>Languages/Runtimes & Tools:</h3>
 <p>
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
