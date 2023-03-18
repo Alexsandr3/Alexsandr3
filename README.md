@@ -10,10 +10,9 @@
 - 🔭 I’m currently working as a **BackEnd Developer**
 - 🌱 I’m currently learning **JavaScript Advanced topics, Data structures and Algorithms**
 - 💬 Ask me about **JavaScript, Node.js**
-- 📫 How to reach me **fam_86@mail.ru**
 - ⚡ Fun fact **I can type 120 words per minute 😄 - sure it's a joke**
-
-<div align="left">
+**- 📫 How to reach me:**
+<div align="center">
   <a href="https://t.me/+451655588" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
   </a>
@@ -26,7 +25,7 @@
   </a>
 </div>
 
-
+<div align="center">
 <h3>Languages/Runtimes & Tools:</h3>
 <p>
     <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
@@ -58,6 +57,7 @@
     <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> 
 <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="40" height="40"/> </a>
 </p>
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=vue)
 
