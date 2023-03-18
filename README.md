@@ -36,18 +36,8 @@
     <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="40" height="40"/> </a>
 </p>
 
-<div class="image" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexsandr3&show_icons=true&locale=en" alt="Alexsandr3" />
-</div>
-
-<br>
-<a align="center" href="https://www.codewars.com/users/beeBrick">
-<img align="center" height="30em" src="https://www.codewars.com/users/beeBrick/badges/large" alt="beeBrick Alpha Codewars Badge" width="">
-</a> 
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=transparent)
 
 
 
