@@ -60,15 +60,11 @@
 <img align="center" height="25em" src="https://www.codewars.com/users/beeBrick/badges/large" alt="beeBrick Alpha Codewars Badge">
 </a> 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Alexsandr3=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Alexsandr3=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexsandr3&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Alexsandr3=daniilshat&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?Alexsandr3=daniilshat&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?Alexsandr3=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexsandr3&theme=solarized_dark)
 
 
 
