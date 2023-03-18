@@ -2,7 +2,8 @@
 <h3 align="center">Backend Developer from Poznan, Poland</h3>
 
 <div class="image" align="center">
-  <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/linkedin-original.svg"
+  <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966"
+  alt="coding gif"
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexsandr-fedarovich-5a6077250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakhongir-ismoilov-9039a5203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexsandr-fedarovich-5a6077250/" target="blank"><img align="center" src="https://github.com/Alexsandr3/readme/blob/main/iconc/linkenin-original.svg" alt="jakhongir-ismoilov-9039a5203/" height="30" width="40" /></a>
 </p>
 
 <h3>Languages/Runtimes:</h3>
