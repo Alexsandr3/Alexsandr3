@@ -56,9 +56,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandr3&show_icons=true&locale=en" alt="Alexsandr3" /></p>
 
 <br>
-  <a align="center" href="https://www.codewars.com/users/beeBrick">
-  <img align="center" height="25em" src="https://www.codewars.com/users/beeBrick/badges/large" alt="beeBrick Alpha Codewars Badge">
-  </a> 
+<a align="center" href="https://www.codewars.com/users/beeBrick">
+<img align="center" height="25em" src="https://www.codewars.com/users/beeBrick/badges/large" alt="beeBrick Alpha Codewars Badge">
+</a> 
 
 
 
