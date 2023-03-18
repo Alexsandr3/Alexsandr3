@@ -36,16 +36,8 @@
     <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="40" height="40"/> </a>
 </p>
 
-
-
-<h3 align="left">My GitHub Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexsandr3&show_icons=true&theme=vue&locale=en" alt="Alexsandr3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexsandr3&show_icons=true&theme=vue&locale=en&layout=compact" alt="Alexsandr3" />
-</div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=vue)
+
 
 
 
