@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexsandr-fedarovich-5a6077250/" target="blank"><img align="center" src="https://github.com/Alexsandr3/readme/blob/main/iconc/linkenin-original.svg" alt="jakhongir-ismoilov-9039a5203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexsandr-fedarovich-5a6077250/" target="blank"><img align="center" src="https://github.com/Alexsandr3/readme/blob/main/iconc/linkedin-original.svg"  height="30" width="40" /></a>
 </p>
 
 <h3>Languages/Runtimes:</h3>
