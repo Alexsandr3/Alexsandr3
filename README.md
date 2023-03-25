@@ -57,6 +57,10 @@
 <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/typeOrm.svg" alt="typeorm" width="30" height="30"/> </a> 
     <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> 
 <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="mongoose" width="30" height="30"/> </a>
+    <a href="https://vercel.com" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/vercel.svg" alt="vercel" width="30" height="30"/> </a>
+    <a href="https://swagger.io" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/Swagger.svg" alt="swagger" width="30" height="30"/> </a>
 </p>
 </div>
 
