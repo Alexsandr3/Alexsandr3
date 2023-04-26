@@ -65,6 +65,8 @@
 <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/vercel.svg" alt="vercel" width="30" height="30"/> </a>
     <a href="https://swagger.io" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/Alexsandr3/readme/blob/main/iconc/Swagger.svg" alt="swagger" width="30" height="30"/> </a>
+<a href="https://prisma.io" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/Alexsandr3/readme/blob/main/iconc/Prisma-DarkSymbol.svg" alt="prisma" width="30" height="30"/> </a>
 </p>
 </div>
 
