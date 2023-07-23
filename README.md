@@ -70,6 +70,11 @@
 </p>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Alexander3/count.svg" />
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandr3&theme=vue)
 
 
